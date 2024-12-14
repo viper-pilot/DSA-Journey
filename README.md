@@ -1,4 +1,4 @@
-DSA Learning Journey in Java (Me and Vidushi)
+DSA Learning Journey in Java (Me and Vidyarth)
 
 Welcome to our Data Structures and Algorithms (DSA) repository! 
 This is a collaborative project between two friends on a mission to crack campus placements by mastering DSA concepts using Java. 
